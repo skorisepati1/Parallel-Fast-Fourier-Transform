@@ -1,6 +1,6 @@
-# Parallel Fast Fourier Transform
+
 ### Anuvind Bhat (anuvindb) & Saatvik Suryajit Korisepati (skorisep)
-### URL:  https://skorisepati1.github.io/Parallel-Fast-Fourier-Transform/
+
 ## **Summary**
 We are going to be parallelizing an image compression algorithm that utilizes Fast Fourier Transform (FFT). This will be done using OpenMP, …. We will also be analyzing the performance benefits obtained from the parallelization with regards to the sequential version.
 ## **Background**
